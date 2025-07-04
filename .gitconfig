@@ -1,2 +1,5 @@
 [init]
 	defaultBranch = main
+[user]
+	email = devsecopsscout@gmail.com
+	name = devsecops_scout
